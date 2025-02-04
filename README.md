@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @dievit
 - 👽 I'm a Database student at FATEC - São Jose dos Campos, SP Brazil.
 - 👀 I’m interested in Programming and Technology
-- 🌱 I’m currently learning JavaScript/Typescript/Node/React this semester
-- 📫 How to reach me: www.linkedin.com/in/diegovitvicki/
-- 🔎 I'm job and internship seeker.
+- 🌱 I’m currently learning JAVA, JavaScript/Typescript/Node/React this semester
+- 📫 How to reach me: www.linkedin.com/in/diegovitvicki
+- 🔎 I'm searching for an opportunity in software development.
 
 <!---
 dievit/dievit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
