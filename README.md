@@ -3,7 +3,6 @@
 👨‍💻 **IT Professional | Transitioning to Software Development**  
 👽 **Database Student** | **FATEC - São José dos Campos, SP, Brazil**  
 💻 Passionate about **Programming & Technology**  
-📚 Currently learning **Java, JavaScript, TypeScript, Node.js, and React**  
 🔎 Seeking opportunities in **Software Development**  
 
 ## 🚀 About Me  
